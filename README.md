@@ -1,7 +1,7 @@
 # The quran-es package
 Copyright © 2024
 
-The [`quran-es`](https://ctan.org/pkg/quran-es) package is an extension of the [`quran`](https://ctan.org/pkg/quran) LaTeX package, designed to enhance the typesetting of the Holy Quran by incorporating specific Bengali translations. It provides support for German translations carried out by notable translators such as `Zohurul Hoque`, and `Muhiuddin Khan`.
+The [`quran-es`](https://ctan.org/pkg/quran-es) package is an extension of the [`quran`](https://ctan.org/pkg/quran) LaTeX package, designed to enhance the typesetting of the Holy Quran by incorporating specific Spanish translations. It provides support for Spanish translations carried out by notable translators such as `Raúl González Bórnez`, `Julio Cortes`, and `Muhammad Isa García`
 
 ### Sample
 
