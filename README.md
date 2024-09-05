@@ -23,7 +23,8 @@ The [`quran-es`](https://ctan.org/pkg/quran-es) package extends the [`quran`](ht
 ```
 
 ### Documentation
-For more details, please refer to [this link](http://mirrors.ctan.org/macros/unicodetex/latex/quran-es/doc/quran-es-doc.pdf).
+For more details, please refer to [this link](http://mirrors.ctan.org/macros/xetex/latex/quran-es/doc/quran-es-doc.pdf).
+
 
 ## License
 
