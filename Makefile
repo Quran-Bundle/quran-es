@@ -31,8 +31,8 @@ clean:
 .PHONY: dev
 dev:
 	cd tex || exit
-	sudo mkdir -p /usr/local/texlive/2024/texmf-dist/tex/latex/quran-es
-	sudo cp -v *.def quran-es.sty /usr/local/texlive/2024/texmf-dist/tex/latex/quran-es
+	sudo mkdir -p /usr/local/texlive/2025/texmf-dist/tex/latex/quran-es
+	sudo cp -v *.def quran-es.sty /usr/local/texlive/2025/texmf-dist/tex/latex/quran-es
 	sudo mktexlsr
 
 .PHONY: ctan
