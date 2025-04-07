@@ -31,8 +31,7 @@ clean:
 .PHONY: dev
 dev:
 	cd tex || exit
-	sudo mkdir -p /usr/local/texlive/2025/texmf-dist/tex/latex/quran-es
-	sudo cp -v *.def quran-es.sty /usr/local/texlive/2025/texmf-dist/tex/latex/quran-es
+	sudo cp -v *.def quran-es.sty /usr/local/texlive/2025/texmf-dist/tex/xelatex/quran-es
 	sudo mktexlsr
 
 .PHONY: ctan
@@ -74,7 +73,7 @@ readme:
 	@echo "Seiied-Mohammad-Javad Razvian" >> "${readme-file}"
 	@echo "javadr@gmail.com" >> "${readme-file}"
 	@echo "" >> "${readme-file}"
-	@echo "Copyright © 2024" >> "${readme-file}"
+	@echo "Copyright © 2024-${YEAR}" >> "${readme-file}"
 	@echo "This package may be distributed and/or modified under the terms of the LaTeX Project Public License," >> "${readme-file}"
 	@echo "version 1.3c or later (at your option). The latest version of" >> "${readme-file}"
 	@echo "the license is at: http://www.latex-project.org/lppl.txt" >> "${readme-file}"
