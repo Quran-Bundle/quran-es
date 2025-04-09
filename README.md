@@ -1,5 +1,5 @@
 # The quran-es package
-Copyright © 2024
+Copyright © 2024-2025
 
 The [`quran-es`](https://ctan.org/pkg/quran-es) package extends the [`quran`](https://ctan.org/pkg/quran) LaTeX package, enhancing the typesetting of the Holy Quran with integrated Spanish translations. It includes translations by renowned scholars such as [`Raúl González Bórnez`](https://tanzil.net/#trans/es.bornez/1:1), [`Julio Cortes`](https://tanzil.net/#trans/es.cortes/1:1), and [`Muhammad Isa García`](https://tanzil.net/#trans/es.garcia/1:1).
 
@@ -23,7 +23,7 @@ The [`quran-es`](https://ctan.org/pkg/quran-es) package extends the [`quran`](ht
 ```
 
 ### Documentation
-For more details, please refer to [this link](http://mirrors.ctan.org/macros/xetex/latex/quran-es/doc/quran-es-doc.pdf).
+For more details, please refer to [this link](http://ctan.org/macros/xetex/latex/quran-es/doc/quran-es-doc.pdf).
 
 
 ## License
